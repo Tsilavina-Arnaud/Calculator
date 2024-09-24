@@ -1,0 +1,15 @@
+.slide-enter-from, .slide-leave-to {
+    opacity: 0;
+    font-size: 45px !important;
+    transition: .05s;
+}
+
+.slide-enter-to {
+    opacity: 1;
+    font-size: 30px !important;
+    transition: .05s;
+}
+
+.slide-enter-active, .slide-leave-active {
+    transition: .2s ease-in-out;
+}
