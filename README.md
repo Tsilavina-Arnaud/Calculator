@@ -14,12 +14,3 @@ Une mini application de calculatrice développée avec Vue.js 3. Elle permet d�
 ## 🛠️ Technologies utilisées
 
 - [Vue.js 3](https://vuejs.org/)
-
-## Simple calculatrice
--- Addition
--- Soustraction
--- Multiplication
--- Division
-
-## Résolution d"une équation de second degré
--- Calcule de x1 et x2
